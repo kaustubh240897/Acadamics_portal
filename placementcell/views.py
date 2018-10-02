@@ -1,9 +1,9 @@
 from django.http import HttpResponse, request
 from django.shortcuts import render, redirect
 from django.views import generic
-from django.contrib.auth import authenticate, login
+from django.contrib.auth import authenticate,login
 from django.views.generic import View
-from .forms import Recruiter_register_form
+from .forms import Recruiter_register_form,LoginForm
 
 
 def home_page(request):
@@ -42,16 +42,40 @@ class Recruiter_registerView(View):
             user.save()
 
             # returns user objects if credentials are correct
-            user = authenticate(email=email, password=password)
+            user = authenticate(request, username=username, password=password)
 
-            if user is not None:
-                if user.is_active:
-                    login(request,user)
-                    return redirect("/")
+            if user is not None and user.is_active:
+                login(request, user)
+                return redirect("/")
 
         return render(request, self.template_name, {'form': form})
 
 
+def login_page(request, username=None):
+    form= LoginForm(request.POST or None)
 
+    context = {
+        "form": form
+    }
+    print("user logged in")
+    #print(request.user.is_authenticated())
+    if form.is_valid():
+        print(form.cleaned_data)
+        username=form.cleaned_data.get("username")
+        password=form.cleaned_data.get("password")
+        user=authenticate(request, username=username, password=password)
+        print(user)
+        if user is not None:
+            #print(request.user.is_authenticated())
+            login(request, user)
+            # Redirect to a success page.
+            # context['form'] = LoginForm()
+            return redirect("/")
+        else:
+            print("Error")
+            # Return an 'invalid login' error message.
+
+
+    return render(request, "login.html", context)
 
 

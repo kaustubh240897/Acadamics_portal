@@ -14,3 +14,6 @@ class Recruiter_register_form(forms.ModelForm):
         model=User
         fields=['username','organisation_name','email','password','first_name','last_name','phone_number']
 
+class LoginForm(forms.Form):
+    username=forms.CharField()
+    password=forms.CharField(widget=forms.PasswordInput)

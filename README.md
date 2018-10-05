@@ -1,2 +1,2 @@
 # placementcell
-It is a django based website for trainning and placement-cell for IIITV.
+It is a django based website for training and placement-cell for IIITV.

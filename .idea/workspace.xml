@@ -45,7 +45,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/placementcell/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="-535">
               <caret line="82" column="1" selection-start-line="82" selection-end-line="82" selection-end-column="1" />
             </state>
           </provider>
@@ -277,9 +277,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="1" width="1548" height="829" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533602" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533602" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -292,7 +291,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32855093" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32855093" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="SciView" />
@@ -376,7 +375,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/placementcell/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="-535">
           <caret line="82" column="1" selection-start-line="82" selection-end-line="82" selection-end-column="1" />
         </state>
       </provider>

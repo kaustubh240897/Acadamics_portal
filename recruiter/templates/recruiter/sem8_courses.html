@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>courses_sem1</title>
+    <meta name="keywords" content=""/>
+    <meta name="description" content="">
+    <meta name="author" content="ThemeREX">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic' rel='stylesheet'
+          type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="http://alliance-html.themerex.net/assets/skin/default_skin/css/theme.css">
+    <link rel="stylesheet" type="text/css" href="http://alliance-html.themerex.net/assets/allcp/forms/css/forms.css">
+    <link rel="shortcut icon" href="http://alliance-html.themerex.net/assets/img/favicon.ico">
+</head>
+
+<body class="forms-layouts">
+
+    <div id="main">
+
+
+
+
+        {% if user.is_authenticated %}
+          <!-- Content for Student -->
+            <div id="content" class="animated fadeIn">
+
+                <div class="row">
+                    <div class="col-sm-6 col-lg-3">
+                        <div class="bs-component">
+                            <div class="panel panel-primary">
+                                <div class="panel-heading">
+                                    <span class="panel-title"> Btech project</span>
+                                </div>
+                                <div class="panel-body">
+                                    <p>Select to view the complete details of your room which includes your room number, maximum capacity of the room and your roommates </br></p>
+                                    <p><br></p>
+                                        <div  class="btn btn-default btn-lg mb5"><a href = "sem1_courses/" >Proceed</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3">
+                            <div class="bs-component">
+                                <div class="panel panel-warning">
+                                    <div class="panel-heading">
+                                        <span class="panel-title">Digital Logic Design</span>
+
+
+                                    </div>
+                                    <div class="panel-body">
+                                        <p>Select to initiate the request to the administration to change your room to new room from the room that is  presently allotted to you.</br></p>
+                                        <p><br></p>
+                                            <div class="btn btn-default btn-lg mb5"><a href = "sem2_courses/">Proceed</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3">
+                            <div class="bs-component">
+                                <div class="panel panel-system">
+                                    <div class="panel-heading">
+                                        <span class="panel-title">Mechanics</span>
+                                    </div>
+                                    <div class="panel-body">
+                                        <p>Select to initiate the request of swap room where your request would be forwarded to the student to whom you want to swap the room with.</br></p>
+                                        <p><br></p>
+                                            <div class="btn btn-default btn-lg mb5"><a href = "sem3_courses/">Proceed</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-lg-3">
+                            <div class="bs-component">
+                                <div class="panel panel-success">
+                                    <div class="panel-heading">
+                                        <span class="panel-title">Spoken English</span>
+                                    </div>
+                                    <div class="panel-body">
+                                        <p>Select to acknowledge a swap room request already initiated by another student to swap room with you. It will then go to the admin.</p>
+                                        <p><br></p>
+                                            <div class="btn btn-default btn-lg mb5"><a href = "sem4_courses/">Proceed</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-lg-3">
+                            <div class="bs-component">
+                                <div class="panel panel-success">
+                                    <div class="panel-heading">
+                                        <span class="panel-title">Discrete Mathematics</span>
+                                    </div>
+                                    <div class="panel-body">
+                                        <p>Select to proceed and see the rooms which are vacant and the further number of students that can be accommodated</p>
+                                        <p><br></p>
+                                    <div class="btn btn-default btn-lg mb5"><a href = "sem5_courses/">Proceed</a></div>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+
+                        </div>
+                </div>
+
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+
+        <section id="content_wrapper">
+                <section id="content" class="table-layout animated fadeIn">
+            </section>
+        </section>
+    <style>
+            .allcp-form .panel.heading-border:before,
+            .allcp-form .panel .heading-border:before {
+                transition: all 0.7s ease;
+            }
+        </style>
+    <script src="http://alliance-html.themerex.net/assets/js/jquery/jquery-1.11.3.min.js"></script>
+    <script src="http://alliance-html.themerex.net/assets/js/jquery/jquery_ui/jquery-ui.min.js"></script>
+
+    <script src="http://alliance-html.themerex.net/assets/js/plugins/highcharts/highcharts.js"></script>
+
+    <script src="http://alliance-html.themerex.net/assets/allcp/forms/js/jquery-ui-monthpicker.min.js"></script>
+
+    <script src="http://alliance-html.themerex.net/assets/js/utility/utility.js"></script>
+    <script src="http://alliance-html.themerex.net/assets/js/demo/demo.js"></script>
+    <script src="http://alliance-html.themerex.net/assets/js/main.js"></script>
+    <script src="http://alliance-html.themerex.net/assets/js/demo/widgets_sidebar.js"></script>
+</body>

@@ -1,0 +1,19 @@
+{% load static  %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sem1_Course1</title>
+</head>
+<body>
+    {% for course in courses %}
+        {{ course.course_name }}<br>
+
+    <a href="{% static course.file_pdfs %}" target="_blank">{{ course.file_pdfs }}</a><br>
+
+
+
+        <a href="{{ course.video_link }}"> {{ course.video_link }}</a>
+    {% endfor %}
+</body>
+</html>

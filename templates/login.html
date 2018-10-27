@@ -1,4 +1,4 @@
-{% extends 'base.html' %}
+{% extends 'base1.html' %}
 
 {% block content %}
   <h2>Log in to My Site</h2>
@@ -8,6 +8,7 @@
 <form method="post"  >
     {% csrf_token %}
     {#    <input type="hidden" name="csrfmiddlewaretoken" value="u9C2BRq7PCAceXLM49jrNIzVwyibPGcaJbP4WQK6ekpDyF5FWbZzmE2vJrXdU2Q9">#}
+
     <input type="hidden" name="next" value="">
 
       <p>

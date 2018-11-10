@@ -1,0 +1,96 @@
+body {
+  /* font-family: "Lato"; */
+}
+.navbar-brand {
+  padding: 0px;
+}
+.navbar{
+  margin-bottom: 0;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+.example3 .navbar-brand {
+  height: 80px;
+}
+
+.example3 .nav >li >a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.example3 .navbar-toggle {
+  padding: 10px;
+  margin: 25px 15px 25px 0;
+}
+.navbar-alignit .navbar-header {
+	  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  height: 50px;
+}
+.navbar-alignit .navbar-brand {
+	top: 50%;
+	display: block;
+	position: relative;
+	height: auto;
+	transform: translate(0,-50%);
+	margin-right: 15px;
+  margin-left: 15px;
+}
+.navbar-nav>li>.dropdown-menu {
+	z-index: 9999;
+}
+.heading{
+  left:40%;
+  width: 250px;
+  color:white;
+  /* margin-top: 10%; */
+}
+
+      img {
+          width:inherit;
+      }
+                                                              /* Image Section */
+      .item
+      {
+          width: 100%;
+          /* float: left; */
+          margin-top:0;
+          margin-left: 0;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          /* height:500px; */
+      }
+      .btn{
+        margin-left: 20%;
+      }
+                                                                        /*Footer*/
+                                                                        footer{
+                                                                           /* width: 100%; */
+                                                                           /* height: 340px; */
+                                                                           background-color: #070C1B;
+                                                                           padding: 4% 2% 3% 2%;
+                                                                           color: #fff;
+                                                                           /* margin-top:30%; */
+                                                                        }
+                                                                        .spn{
+                                                                           color: white;
+                                                                           font-size:2vmin;
+                                                                           margin-top: 5%;
+                                                                        }
+                                                                        .h4{
+                                                                           font-weight: 600;
+                                                                           font-size: 2.5vmin;
+                                                                        }
+                                                                        .f-para{
+                                                                           font-size:2vmin;
+                                                                        }
+                                                                        .foot-img{
+                                                                           height: 120px;
+                                                                           width: 120px;
+                                                                           margin: 20px 100px;
+                                                                           border-radius: 50%;
+                                                                        }

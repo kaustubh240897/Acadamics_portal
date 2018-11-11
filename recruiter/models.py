@@ -1,5 +1,5 @@
 from django.db import models
-from django.core.urlresolvers import reverse
+
 from django.core.validators import URLValidator
 
 class Semester_1(models.Model):

@@ -9,7 +9,7 @@
     {% for course in courses %}
         {{ course.course_name }}<br>
 
-    <a href="{% static course.file_pdfs %}" target="_blank">{{ course.file_pdfs }}</a><br>
+    <a href="/media/{{ course.file_pdfs }}" target="_blank">{{ course.file_pdfs }}</a><br>
 
 
 

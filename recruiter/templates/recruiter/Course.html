@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -11,14 +12,15 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/js/uikit-icons.min.js"></script>
   </head>
   <body>
+
     <nav class="uk-navbar-container uk-navbar uk-margin" style="background-color:#050A21;">
       <a class="uk-navbar-item uk-logo" href="#">
-        <img src="image/891625036-612x612.jpg" alt="" style="height:50px; width:50px; border-radius:50%;">
+          <img  src= "../media/image/891625036-612x612.jpg/" alt="" style="height:50px; width:50px; border-radius:50% ">
         <h3 style="margin-top:8%; color:#D2D4D9;">Acadamic Portal</h3>
       </a>
     <div class="uk-navbar-right" style="margin-right:3%;">
         <ul class="uk-navbar-nav">
-            <li><a href="#">Home</a></li>
+            <li><a href="/">Home</a></li>
             <li>
                 <a href="#">About</a>
                 <div class="uk-navbar-dropdown">
@@ -35,78 +37,92 @@
     </div>
 </nav>
 <!-- Card -->
+{% load static %}
 <div class="uk-section uk-section-muted" >
    <div class="uk-container uk-container-small" >
       <div class="uk-child-width-1-3@m uk-grid-match" uk-grid>
           <div>
             <div class="uk-card uk-card-secondary uk-card-hover">
                 <div class="uk-card-media-top">
-                    <img src="image/imageSem4/algo3.png" alt="">
+                    <img src="{% static 'image/cpp.png' %}" alt="" >
                 </div>
                 <div class="uk-card-body">
-                   <h3 class="uk-card-title">Algorithms and Problem Solving</h3>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                   <button class="uk-button uk-button-default">Button</button>
+                   <h3 class="uk-card-title">C++Programming</h3>
+                   <p> It is one of most important skill for computer science students.</p>
+                    <a href = "sem1_course1/" >
+                   <button class="uk-button uk-button-default">Proceed</button>
+                    </a>
                 </div>
             </div>
          </div>
+
          <div>
            <div class="uk-card uk-card-secondary uk-card-hover">
                <div class="uk-card-media-top">
-                   <img src="image/imageSem4/prob2.jpg" alt="">
+                   <img src= "../media/image/imageSem1/mechanics.jpg" alt="">
                </div>
                <div class="uk-card-body">
-                  <h3 class="uk-card-title">Probability and Statistics</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                  <button class="uk-button uk-button-default">Button</button>
+                  <h3 class="uk-card-title">Mechanics</h3>
+                  <p>Mechanics teaches us law of nature.</p>
+                   <a href = "sem1_course2/">
+                  <button class="uk-button uk-button-default">Proceed</button>
+                   </a>
                </div>
            </div>
         </div>
         <div>
           <div class="uk-card uk-card-secondary uk-card-hover">
               <div class="uk-card-media-top">
-                  <img src="image/imageSem4/oop4.jpg" alt="">
+                  <img src="../media/image/imageSem1/thermo.jpg" alt="">
               </div>
               <div class="uk-card-body">
-                 <h3 class="uk-card-title">Object Oriented Programming</h3>
-                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                 <button class="uk-button uk-button-default">Button</button>
+                 <h3 class="uk-card-title">Thermodynmics</h3>
+                 <p>It tells about heat transfer in system and surroundings.</p>
+                  <a href = "sem1_course3/">
+                 <button class="uk-button uk-button-default">Proceed</button>
+                  </a>
               </div>
           </div>
        </div>
        <div>
          <div class="uk-card uk-card-secondary uk-card-hover">
              <div class="uk-card-media-top">
-                 <img src="image/imageSem4/eco.jpg" alt="">
+                 <img src="../media/image/imageSem1/DLD.png" alt="" height="100px">
              </div>
              <div class="uk-card-body">
-                <h3 class="uk-card-title">Economics</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                <button class="uk-button uk-button-default">Button</button>
+                <h3 class="uk-card-title">Digital Logic</h3>
+                <p>Apply your logics to build hardwares.</p>
+                 <a href = "sem1_course4/">
+                <button class="uk-button uk-button-default">Proceed</button>
+                 </a>
              </div>
          </div>
       </div>
       <div>
         <div class="uk-card uk-card-secondary uk-card-hover">
             <div class="uk-card-media-top">
-                <img src="image/imageSem4/c-c2.jpg" alt="">
+                <img src="../media/image/imageSem1/Math.jpg" alt="">
             </div>
             <div class="uk-card-body">
-               <h3 class="uk-card-title">System and Signal Theory</h3>
-               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-               <button class="uk-button uk-button-default">Button</button>
+               <h3 class="uk-card-title">Mathematics</h3>
+               <p>It is the elementry skill for a programmer.</p>
+                <a href = "sem1_course5/">
+               <button class="uk-button uk-button-default">Proceed</button>
+                </a>
             </div>
         </div>
      </div>
      <div>
        <div class="uk-card uk-card-secondary uk-card-hover">
            <div class="uk-card-media-top">
-               <img src="image/imageSem4/is.jpg" alt="">
+               <img src="../media/image/imageSem1/com.jpg" alt="">
            </div>
            <div class="uk-card-body">
-              <h3 class="uk-card-title">Information Security</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-              <button class="uk-button uk-button-default">Button</button>
+              <h3 class="uk-card-title">Communication</h3>
+              <p>It will teach you skills of communicating with others.</p>
+               <a href = "sem1_course6/">
+              <button class="uk-button uk-button-default">Proceed</button>
+               </a>
            </div>
        </div>
     </div>

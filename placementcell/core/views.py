@@ -15,13 +15,15 @@ from .forms import SignUpForm
 from .tokens import account_activation_token
 
 
-@login_required
-def home(request):
-    return render(request, 'home.html')
+
+
 
 
 def home(request):
-    return render(request, 'home_page.html')
+    return render(request, 'base2.html')
+
+
+
 
 
 def signup(request):
@@ -45,7 +47,7 @@ def signup(request):
             return redirect('account_activation_sent')
     else:
         form = SignUpForm()
-    return render(request, 'signup.html', {'form': form})
+    return render(request, 'Sign-up.html', {'form': form})
 
 
 def account_activation_sent(request):

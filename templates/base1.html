@@ -1,67 +1,105 @@
+{#{% load static %}#}
+{#<html>#}
+{#    <head>#}
+{#        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">#}
+{#    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>#}
+{#    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>#}
+{#    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>#}
+{#    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>#}
+{#    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" crossorigin="anonymous">#}
+{#    <title>This is the demo</title>#}
+{#    <link rel='stylesheet' href="{% static 'css/base.css' %}">#}
+{#    </head>#}
+{#    <body>#}
+{#        <div class="example3">#}
+{#            <nav class="navbar navbar-inverse navbar-static-top">#}
+{#              <div class="container">#}
+{#                <div class="navbar-header">#}
+{#                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar3">#}
+{#                    <span class="sr-only">Toggle navigation</span>#}
+{#                    <span class="icon-bar"></span>#}
+{#                    <span class="icon-bar"></span>#}
+{#                    <span class="icon-bar"></span>#}
+{#                  </button>#}
+{#                  <a class="navbar-brand" href="http://disputebills.com">#}
+{#                      <h1>Academic Portal</h1>#}
+{#                  </a>#}
+{#                </div>#}
+{#                <div id="navbar3" class="navbar-collapse collapse">#}
+{#                  <ul class="nav navbar-nav navbar-right">#}
+{#                      <header>#}
+{#             <h1>Welcome to Acadamic Portal</h1>#}
+{#              {% if user.is_authenticated %}#}
+{#              <a href="{% url 'logout' %}">logout</a>#}
+{#              {% else %}#}
+{#              <a href="{% url 'login' %}">login</a> / <a href="{% url 'signup' %}">signup</a>#}
+{#              {% endif %}#}
+{#               <hr>#}
+{#                </header>#}
+{#                  <main>#}
+{#      {% block content %}#}
+{#      {% endblock %}#}
+{#    </main>#}
+{#                    <li class="active"><a href="#">Home</a></li>#}
+{#                    <li><a href="#">About</a></li>#}
+{#                    <li><a href="#">Contact</a></li>#}
+{#                    <li class="dropdown">#}
+{#                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>#}
+{#                      <ul class="dropdown-menu" role="menu">#}
+{#                        <li><a href="#">Action</a></li>#}
+{#                        <li><a href="#">Another action</a></li>#}
+{#                        <li><a href="#">Something else here</a></li>#}
+{#                        <li class="divider"></li>#}
+{#                        <li class="dropdown-header">Nav header</li>#}
+{#                        <li><a href="#">Separated link</a></li>#}
+{#                        <li><a href="#">One more separated link</a></li>#}
+{#                      </ul>#}
+{#                    </li>#}
+{#                  </ul>#}
+{#                </div>#}
+{#                <!--/.nav-collapse -->#}
+{#              </div>#}
+{#              <!--/.container-fluid -->#}
+{#            </nav>#}
+{#          </div>#}
+{##}
+{#    </body>#}
+{#</html>#}
 {% load static %}
-<html>
-    <head>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" crossorigin="anonymous">
-    <title>This is the demo</title>
-    <link rel='stylesheet' href="{% static 'css/base.css' %}">
-    </head>
-    <body>
-        <div class="example3">
-            <nav class="navbar navbar-inverse navbar-static-top">
-              <div class="container">
-                <div class="navbar-header">
-                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar3">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                  </button>
-                  <a class="navbar-brand" href="http://disputebills.com">
-                      <h1>Academic Portal</h1>
-                  </a>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Acadamic Portal|Login</title>
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/css/uikit.min.css" />
+    <!-- UIkit JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/js/uikit.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/js/uikit-icons.min.js"></script>
+  </head>
+  <body>
+    <nav class="uk-navbar-container" uk-navbar style="background-color:#050A21;">
+      <a class="uk-navbar-item uk-logo" href="#">
+        <img src="../media/image/891625036-612x612.jpg" alt="" style="height:50px; width:50px; border-radius:50%;">
+        <h3 style="margin-top:8%; color:#D2D4D9;">Acadamic Portal</h3>
+      </a>
+    <div class="uk-navbar-right" style="margin-right:3%;">
+        <ul class="uk-navbar-nav">
+            <li><a href="#">Home</a></li>
+            <li>
+                <a href="#">About</a>
+                <div class="uk-navbar-dropdown">
+                    <ul class="uk-nav uk-navbar-dropdown-nav">
+                        <li class="uk-active"><a href="#">Active</a></li>
+                        <li><a href="#">Item</a></li>
+                        <li><a href="#">Item</a></li>
+                    </ul>
                 </div>
-                <div id="navbar3" class="navbar-collapse collapse">
-                  <ul class="nav navbar-nav navbar-right">
-                      <header>
-             <h1>Welcome to Acadamic Portal</h1>
-              {% if user.is_authenticated %}
-              <a href="{% url 'logout' %}">logout</a>
-              {% else %}
-              <a href="{% url 'login' %}">login</a> / <a href="{% url 'signup' %}">signup</a>
-              {% endif %}
-               <hr>
-                </header>
-                  <main>
-      {% block content %}
-      {% endblock %}
-    </main>
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Contact</a></li>
-                    <li class="dropdown">
-                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
-                      <ul class="dropdown-menu" role="menu">
-                        <li><a href="#">Action</a></li>
-                        <li><a href="#">Another action</a></li>
-                        <li><a href="#">Something else here</a></li>
-                        <li class="divider"></li>
-                        <li class="dropdown-header">Nav header</li>
-                        <li><a href="#">Separated link</a></li>
-                        <li><a href="#">One more separated link</a></li>
-                      </ul>
-                    </li>
-                  </ul>
-                </div>
-                <!--/.nav-collapse -->
-              </div>
-              <!--/.container-fluid -->
-            </nav>
-          </div>
-
-    </body>
+            </li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Help</a></li>
+        </ul>
+    </div>
+</nav>
+  </body>
 </html>

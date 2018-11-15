@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Acadamic Portal|SignUp</title>
+    <title>Acadamic Portal|Login</title>
     <!-- UIkit CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/css/uikit.min.css" />
     <!-- UIkit JS -->
@@ -12,12 +12,12 @@
   <body>
     <nav class="uk-navbar-container" uk-navbar style="background-color:#050A21;">
       <a class="uk-navbar-item uk-logo" href="#">
-        <img src="image/891625036-612x612.jpg" alt="" style="height:50px; width:50px; border-radius:50%;">
+        <img src="../media/image/891625036-612x612.jpg" alt="" style="height:50px; width:50px; border-radius:50%;">
         <h3 style="margin-top:8%; color:#D2D4D9;">Acadamic Portal</h3>
       </a>
     <div class="uk-navbar-right" style="margin-right:3%;">
         <ul class="uk-navbar-nav">
-            <li><a href="#">Home</a></li>
+            <li><a href="/">Home</a></li>
             <li>
                 <a href="#">About</a>
                 <div class="uk-navbar-dropdown">
@@ -37,8 +37,8 @@
 <div class="uk-section uk-section-primary">
     <div class="uk-container uk-container-large">
          <div class="uk-card uk-card-secondary uk-width-1-2@m uk-align-center uk-card-hover uk-card-body uk-card-large uk-light" style="">
-            <h2 class="uk-card-title" style="text-align:center;">SignUp Here</h2>
-             <form>
+            <h2 class="uk-card-title" style="text-align:center;">Login Here</h2>
+             <form action="/recruiter/">
                <fieldset class="uk-fieldset">
                  <legend class="uk-legend">User Name</legend>
                     <div class="uk-margin">
@@ -47,13 +47,6 @@
                            <input class="uk-input" type="text" placeholder="Input">
                       </div>
                     </div>
-                <legend class="uk-legend">E-mail</legend>
-                   <div class="uk-margin">
-                     <div class="uk-inline uk-width-1-1">
-                        <span class="uk-form-icon" uk-icon="icon: mail"></span>
-                          <input class="uk-input" type="email" placeholder="info@gmail.com">
-                     </div>
-                   </div>
                  <legend class="uk-legend">Password</legend>
                     <div class="uk-margin">
                       <div class="uk-inline uk-width-1-1">
@@ -61,21 +54,13 @@
                            <input class="uk-input" type="password" placeholder="***************">
                       </div>
                     </div>
-                <legend class="uk-legend">Repeat-Password</legend>
-                    <div class="uk-margin">
-                      <div class="uk-inline uk-width-1-1">
-                         <span class="uk-form-icon uk-form-icon-flip" uk-icon="icon: lock"></span>
-                           <input class="uk-input" type="password" placeholder="***************">
-                      </div>
-                    </div>
-                    <a href="semester.html">
-                      <button class="uk-button uk-button-default">SignUp</button>
+                    <a href="/recruiter/">
+                      <button class="uk-button uk-button-default">LogIn</button>
                     </a>
-
                        <div class="uk-margin-xlarge-left">
-                         <a href="login-signup.html">login</a>
+                         <a href="/signup/">sign-up?</a>
                          <span>|</span>
-                         <a href="#">forgot password??</a>
+                         <a href="#">forgot password?</a>
                        </div>
                  </fieldset>
                </form>
@@ -86,13 +71,16 @@
       <!-- <div class="uk-section uk-section-secondary">
           <div class="uk-container uk-container-large">
               <div class="uk-column-1-2@s uk-column-1-3@m uk-column-1-4@l uk-column-divider">
+                <div>
                   <img src="image/891625036-612x612.jpg" alt="FooterImage" style="width:100px; height:100px; border-radius:50%; margin-left:4%;">
-
-
+                </div>
+                <div>
                  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidata   t non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
+               </div>
+             </div>
                  <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</p>
               </div>
+            </div>
           </div>
       </div> -->
   </body>

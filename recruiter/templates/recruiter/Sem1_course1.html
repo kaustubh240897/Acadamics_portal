@@ -4,16 +4,77 @@
 <head>
     <meta charset="UTF-8">
     <title>Sem1_Course1</title>
+    <meta charset="utf-8">
+    <title>Acadamic Portal| Course</title>
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/css/uikit.min.css" />
+
+    <!-- UIkit JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/js/uikit.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/js/uikit-icons.min.js"></script>
 </head>
 <body>
-    {% for course in courses %}
+
+  <nav class="uk-navbar-container uk-navbar uk-margin" style="background-color:#050A21;">
+      <a class="uk-navbar-item uk-logo" href="#">
+          <img  src= "../media/image/891625036-612x612.jpg/" alt="" style="height:50px; width:50px; border-radius:50% ">
+        <h3 style="margin-top:8%; color:#D2D4D9;">Acadamic Portal</h3>
+      </a>
+    <div class="uk-navbar-right" style="margin-right:3%;">
+        <ul class="uk-navbar-nav">
+            <li><a href="/">Home</a></li>
+            <li>
+                <a href="#">About</a>
+                <div class="uk-navbar-dropdown">
+                    <ul class="uk-nav uk-navbar-dropdown-nav">
+                        <li class="uk-active"><a href="#">Active</a></li>
+                        <li><a href="#">Item</a></li>
+                        <li><a href="#">Item</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Help</a></li>
+        </ul>
+    </div>
+</nav>
+<div class="uk-section uk-section-muted" >
+   <div class="uk-container uk-container-small" >
+  <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+    <div>
+        <div class="uk-card uk-card-default uk-card-hover uk-card-body">
+            <h3 class="uk-card-title">
+                {% for course in courses %}
         {{ course.course_name }}<br>
+</h3>
+            <p></p>
+        </div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-primary uk-card-hover uk-card-body">
+            <h3 class="uk-card-title">PDFs </h3>
+            <p> <a href="/media/{{ course.file_pdfs }}" target="_blank">{{ course.file_pdfs }}</a><br></p>
+        </div>
+    </div>
+    <div>
+        <div class="uk-card uk-card-secondary uk-card-hover uk-card-body">
+            <h3 class="uk-card-title">Video links  </h3>
+            <p><a href="{{ course.video_link }}"> {{ course.video_link }}</a></p>
+        </div>
+    </div>
+  </div>
+       </div>
+    </div>
+           {% endfor %}
 
-    <a href="/media/{{ course.file_pdfs }}" target="_blank">{{ course.file_pdfs }}</a><br>
-
-
-
-        <a href="{{ course.video_link }}"> {{ course.video_link }}</a>
-    {% endfor %}
+{#    {% for course in courses %}#}
+{#        {{ course.course_name }}<br>#}
+{##}
+{#    <a href="/media/{{ course.file_pdfs }}" target="_blank">{{ course.file_pdfs }}</a><br>#}
+{##}
+{##}
+{##}
+{#        <a href="{{ course.video_link }}"> {{ course.video_link }}</a>#}
+{#    {% endfor %}#}
 </body>
 </html>

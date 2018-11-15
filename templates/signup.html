@@ -1,72 +1,69 @@
-{#{% extends 'base.html' %}#}
-{##}
-{#{% block content %}#}
-{#  <h2>Sign up</h2>#}
-{#  <form method="post">#}
-{#      {% csrf_token %}#}
-      {#    <input type="hidden" name="csrfmiddlewaretoken" value="VVmRpMFz1bfUPWaw5KLqKAgYvy3CeSnS9gsQTfHEtnBUZetqYLj23vl4AYWWr1b3">#}
-{##}
-{#      <p>#}
-{#        <label for="id_username"> Username:</label><br>#}
-{#        <input type="text" name="username" maxlength="150" autofocus="" required="" id="id_username">#}
-{##}
-{#          <small style="color: grey">Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small>#}
-{##}
-{##}
-{#      </p>#}
-{##}
-{#      <p>#}
-{#        <label for="id_email">Email:</label><br>#}
-{#        <input type="email" name="email" maxlength="254" required="" id="id_email">#}
-{##}
-{#          <small style="color: grey">Required. Inform a valid email address.</small>#}
-{##}
-{##}
-{#      </p>#}
-{##}
-{#      <p>#}
-{#        <label for="id_password1">Password:</label><br>#}
-{#        <input type="password" name="password1" required="" id="id_password1">#}
-{##}
-{#          <small style="color: grey">&lt;ul&gt;&lt;li&gt;Your password can&amp;#39;t be too similar to your other personal information.&lt;/li&gt;&lt;li&gt;Your password must contain at least 8 characters.&lt;/li&gt;&lt;li&gt;Your password can&amp;#39;t be a commonly used password.&lt;/li&gt;&lt;li&gt;Your password can&amp;#39;t be entirely numeric.&lt;/li&gt;&lt;/ul&gt;</small>#}
-{##}
-{##}
-{#      </p>#}
-{##}
-{#      <p>#}
-{#        <label for="id_password2">Password confirmation:</label><br>#}
-{#        <input type="password" name="password2" required="" id="id_password2">#}
-{##}
-{#          <small style="color: grey">Enter the same password as before, for verification.</small>#}
-{##}
-{##}
-{#      </p>#}
-{##}
-{#    <button type="submit">Sign up</button>#}
-{#  </form>#}
-{##}
-{#{% endblock %}#}
-
-
-
-{% extends 'base1.html' %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Acadamic Portal|SignUp</title>
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/css/uikit.min.css" />
+    <!-- UIkit JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/js/uikit.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.20/js/uikit-icons.min.js"></script>
+  </head>
+  <body>
+    <nav class="uk-navbar-container" uk-navbar style="background-color:#050A21;">
+      <a class="uk-navbar-item uk-logo" href="#">
+        <img src="../media/image/891625036-612x612.jpg" alt="" style="height:50px; width:50px; border-radius:50%;">
+        <h3 style="margin-top:8%; color:#D2D4D9;">Acadamic Portal</h3>
+      </a>
+    <div class="uk-navbar-right" style="margin-right:3%;">
+        <ul class="uk-navbar-nav">
+            <li><a href="#">Home</a></li>
+            <li>
+                <a href="#">About</a>
+                <div class="uk-navbar-dropdown">
+                    <ul class="uk-nav uk-navbar-dropdown-nav">
+                        <li class="uk-active"><a href="#">Active</a></li>
+                        <li><a href="#">Item</a></li>
+                        <li><a href="#">Item</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Help</a></li>
+        </ul>
+    </div>
+</nav>
+                                                  <!-- Login -->
+<div class="uk-section uk-section-primary">
+    <div class="uk-container uk-container-large">
+         <div class="uk-card uk-card-secondary uk-width-1-2@m uk-align-center uk-card-hover uk-card-body uk-card-large uk-light" style="">
+            <h2 class="uk-card-title" style="text-align:center;">SignUp Here</h2>
 
 {% block content %}
   <h2>Sign up</h2>
   <form method="post">
     {% csrf_token %}
     {% for field in form %}
-      <p>
-        {{ field.label_tag }}<br>
-        {{ field }}
-        {% if field.help_text %}
-          <small style="color: grey">{{ field.help_text }}</small>
-        {% endif %}
+      <fieldset class="uk-fieldset">
+                 <legend class="uk-legend">{{ field.label_tag }}</legend>
+                    <div class="uk-margin">
+                      <div class="uk-inline uk-width-1-1">
+                         <span class="uk-form-icon" uk-icon="icon: user"></span>
+                           <p class="uk-input">{{ field }}</p>
+                      </div>
+                    </div>
+      </fieldset>
+
         {% for error in field.errors %}
           <p style="color: red">{{ error }}</p>
         {% endfor %}
-      </p>
     {% endfor %}
     <button type="submit">Sign up</button>
   </form>
 {% endblock %}
+
+         </div>
+    </div>
+</div>
+  </body>
+</html>

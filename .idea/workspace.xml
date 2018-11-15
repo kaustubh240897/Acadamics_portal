@@ -4,12 +4,170 @@
     <list default="true" id="9296d245-2683-41e6-ac01-8fa42eb9c622" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Course.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Course2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Course3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Course4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Course5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Course6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Course7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Sign-up.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/css/login-signup.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/login-signup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/14_germany_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/14_germany_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/2_EPBS_GATE.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/2_EPBS_GATE.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/3_idiots_screen_3_720-735x400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/3_idiots_screen_3_720-735x400.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/635959352181425725112395892_college.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/635959352181425725112395892_college.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/891625036-612x612.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/891625036-612x612.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/Exam-Quotes-big-ben-HD-Wallpaper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/Exam-Quotes-big-ben-HD-Wallpaper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/Old_Books_Wallpaper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/Old_Books_Wallpaper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/andre-hunter-702310-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/andre-hunter-702310-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/bg2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/bg2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/bg3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/bg3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/bg4.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/bg4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/bg5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/bg5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/bg6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/bg6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/book-eyeglasses-eyewear-information-thumb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/book-eyeglasses-eyewear-information-thumb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/book_icon_black_background_vector_280790.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/book_icon_black_background_vector_280790.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/clg2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/clg2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/college_life.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/college_life.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/commencement.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/commencement.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/henry-be-803705-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/henry-be-803705-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem1/DLD.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem1/DLD.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem1/Math.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem1/Math.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem1/com.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem1/com.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem1/communication.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem1/communication.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem1/cpp.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/image/cpp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem1/dld.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem1/dld.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem1/mathjpg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem1/mathjpg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem1/mechanics.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem1/mechanics.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem1/thermo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem1/thermo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem2/basicelectronics.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem2/basicelectronics.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem2/c_org.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem2/c_org.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem2/calculus.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem2/calculus.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem2/data-structure.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem2/data-structure.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem2/introcse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem2/introcse.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem2/introit.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem2/introit.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem2/it.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem2/it.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/DBMS.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/DBMS.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/DMBS1.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/DMBS1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/OR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/OR.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/algo8.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/algo8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/cn.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/cn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/dbms.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/dbms.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/dbms3.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/dbms3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/dbms4.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/dbms4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/ooop.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/ooop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/os.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/os.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/os2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/os2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/sts.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/sts.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/sts.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/sts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/tw.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/tw.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem3/tw.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem3/tw.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/algo.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/algo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/algo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/algo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/algo3.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/algo3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/algo5.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/algo5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/algo6.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/algo6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/algo7.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/algo7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/algo9.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/algo9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/c-c2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/c-c2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/eco.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/eco.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/is.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/is.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/ooop1.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/ooop1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/oop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/oop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/oop.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/oop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/oop1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/oop1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/oop3.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/oop3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/oop4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/oop4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/p&amp;s.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/p&amp;s.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/prob.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/prob.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/prob2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/prob2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/s-s.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/s-s.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem4/s-s1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem4/s-s1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/Web.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/Web.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/Web2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/Web2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/Web3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/Web3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/Web6.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/Web6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/am.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/am.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/am2.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/am2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/am3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/am3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/crypto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/crypto.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/crypto2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/crypto2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/eco.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/eco.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/la.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/la.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/la2.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/la2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/la4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/la4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/la5.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/la5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/se.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/se.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/se2.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/se2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem5/se3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem5/se3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/ai.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/ai.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/ai2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/ai2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/ai3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/ai3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/ai4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/ai4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/ca.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/ca.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/ca2.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/ca2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/cca.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/cca.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/cd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/cd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/code.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/code.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/e-com.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/e-com.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/e-com2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/e-com2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/e-com3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/e-com3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/e-com4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/e-com4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/e-com5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/e-com5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/e-com6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/e-com6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/hci.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/hci.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem6/hci2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem6/hci2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/bd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/bd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/bda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/bda.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/bigdata.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/bigdata.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/cv.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/cv.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/cv2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/cv2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/cv4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/cv4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/cv5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/cv5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/cv7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/cv7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/cv8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/cv8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/dc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/dc.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/dc.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/dc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/dc2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/dc2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/eth.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/eth.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/gt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/gt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/gt2.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/gt2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imageSem7/ip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imageSem7/ip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/imagehjsg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/imagehjsg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/llooggoo.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/llooggoo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/logo_for_book_idea.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/logo_for_book_idea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/mike-wilson-138129-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/mike-wilson-138129-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/p02vdpfn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/p02vdpfn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/placement16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/placement16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/sem5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/sem5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/sem6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/sem6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/sem7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/sem7.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/sem8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/sem8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/studentsuccess.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/studentsuccess.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/image/studying.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/image/studying.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/login-signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/semester.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/placementcell/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/placementcell/core/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/placementcell/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/placementcell/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/placementcell/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/placementcell/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recruiter/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/recruiter/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recruiter/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/recruiter/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recruiter/static/CV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recruiter/static/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recruiter/static/css/login.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/recruiter/templates/recruiter/Sem1_course1.html" beforeDir="false" afterPath="$PROJECT_DIR$/recruiter/templates/recruiter/Sem1_course1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recruiter/templates/recruiter/sem1_courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/recruiter/templates/recruiter/sem1_courses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recruiter/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/recruiter/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recruiter/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/recruiter/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/account_activation_invalid.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/account_activation_invalid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/account_activation_sent.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/account_activation_sent.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/signup.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +179,9 @@
     <session id="1761751742">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -32,41 +191,44 @@
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.84" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="6" />
-          <entry key="html" value="150" />
-          <entry key="py" value="142" />
+          <entry key="html" value="204" />
+          <entry key="jpg" value="4" />
+          <entry key="png" value="2" />
+          <entry key="py" value="196" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="6" />
-          <entry key="HTML" value="150" />
-          <entry key="Python" value="142" />
+          <entry key="HTML" value="204" />
+          <entry key="Image" value="6" />
+          <entry key="Python" value="196" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="6" />
-          <entry key="html" value="1756" />
-          <entry key="py" value="2504" />
+          <entry key="html" value="3813" />
+          <entry key="py" value="2698" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="6" />
-          <entry key="HTML" value="1738" />
-          <entry key="JSX Harmony" value="18" />
-          <entry key="Python" value="2504" />
+          <entry key="HTML" value="3784" />
+          <entry key="JSX Harmony" value="29" />
+          <entry key="Python" value="2698" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -75,100 +237,95 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recruiter/models.py">
+        <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/semester_new.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+            <state relative-caret-position="621">
+              <caret line="63" column="43" lean-forward="true" selection-start-line="63" selection-start-column="43" selection-end-line="63" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recruiter/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-434">
+              <caret line="249" selection-start-line="249" selection-end-line="249" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#0#32#0" expanded="true" />
+                <marker date="1542097222789" expanded="true" signature="2772:3513" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/placementcell/core/forms.py">
+        <entry file="file://$PROJECT_DIR$/placementcell/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="-467">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/placementcell/core/views.py">
+        <entry file="file://$PROJECT_DIR$/placementcell/core/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+            <state relative-caret-position="119">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Sign-up.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/login-signup.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/Course.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="77" column="40" lean-forward="true" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/placementcell/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2312">
+              <caret line="136" column="15" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/signup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/placementcell/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-              <folding>
-                <element signature="e#410#451#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/base1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/Sem1_course1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/Recruiter_registration.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recruiter/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="11" selection-start-line="16" selection-start-column="4" selection-end-line="19" selection-end-column="11" />
+            <state relative-caret-position="-51">
+              <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -197,18 +354,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/placementcell/views.py" />
-        <option value="$PROJECT_DIR$/placementcell/core/tests.py" />
-        <option value="$PROJECT_DIR$/placementcell/core/apps.py" />
-        <option value="$PROJECT_DIR$/templates/form_template.html" />
-        <option value="$PROJECT_DIR$/templates/Recruiter_registration.html" />
-        <option value="$PROJECT_DIR$/templates/account_activation_email.html" />
-        <option value="$PROJECT_DIR$/placementcell/core/urls.py" />
-        <option value="$PROJECT_DIR$/placementcell/core/forms.py" />
-        <option value="$PROJECT_DIR$/placementcell/core/admin.py" />
-        <option value="$PROJECT_DIR$/placementcell/forms.py" />
-        <option value="$PROJECT_DIR$/recruiter/url.py" />
-        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/material.html" />
         <option value="$PROJECT_DIR$/templates/registration/base.html" />
         <option value="$PROJECT_DIR$/templates/registration/signup.html" />
         <option value="$PROJECT_DIR$/templates/registration/login1.html" />
@@ -218,12 +363,9 @@
         <option value="$PROJECT_DIR$/templates/registration/account_activation_invalid.html" />
         <option value="$PROJECT_DIR$/templates/registration/login.html" />
         <option value="$PROJECT_DIR$/recruiter/templates/recruiter/semester.html" />
-        <option value="$PROJECT_DIR$/placementcell/core/views.py" />
         <option value="$PROJECT_DIR$/placementcell/core/tokens.py" />
         <option value="$PROJECT_DIR$/placementcell/core/models.py" />
         <option value="$PROJECT_DIR$/templates/logout.html" />
-        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/sem1_courses.html" />
-        <option value="$PROJECT_DIR$/recruiter/admin.py" />
         <option value="$PROJECT_DIR$/recruiter/templates/recruiter/sem2_courses.html" />
         <option value="$PROJECT_DIR$/recruiter/templates/recruiter/sem3_courses.html" />
         <option value="$PROJECT_DIR$/recruiter/templates/recruiter/sem4_courses.html" />
@@ -233,21 +375,36 @@
         <option value="$PROJECT_DIR$/recruiter/templates/recruiter/sem8_courses.html" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/login.html" />
-        <option value="$PROJECT_DIR$/templates/signup.html" />
-        <option value="$PROJECT_DIR$/templates/home_page.html" />
-        <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/templates/css/base.css" />
+        <option value="$PROJECT_DIR$/recruiter/static/css/base.css" />
+        <option value="$PROJECT_DIR$/recruiter/models.py" />
+        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/Course2.html" />
+        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/Course3.html" />
+        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/Course4.html" />
+        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/Course5.html" />
+        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/Course6.html" />
+        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/Course7.html" />
+        <option value="$PROJECT_DIR$/templates/signup.html" />
+        <option value="$PROJECT_DIR$/templates/login1.html" />
+        <option value="$PROJECT_DIR$/placementcell/urls.py" />
         <option value="$PROJECT_DIR$/templates/account_activation_sent.html" />
         <option value="$PROJECT_DIR$/templates/account_activation_invalid.html" />
-        <option value="$PROJECT_DIR$/recruiter/static/css/base.css" />
-        <option value="$PROJECT_DIR$/templates/login1.html" />
-        <option value="$PROJECT_DIR$/templates/base1.html" />
-        <option value="$PROJECT_DIR$/placementcell/settings.py" />
-        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/Sem1_course1.html" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/recruiter/urls.py" />
-        <option value="$PROJECT_DIR$/placementcell/urls.py" />
+        <option value="$PROJECT_DIR$/templates/base1.html" />
+        <option value="$PROJECT_DIR$/templates/home_page.html" />
+        <option value="$PROJECT_DIR$/placementcell/views.py" />
+        <option value="$PROJECT_DIR$/placementcell/core/views.py" />
+        <option value="$PROJECT_DIR$/recruiter/admin.py" />
+        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/sem1_courses.html" />
+        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/semester_new.html" />
+        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/Sem1_course1.html" />
         <option value="$PROJECT_DIR$/recruiter/views.py" />
-        <option value="$PROJECT_DIR$/recruiter/models.py" />
+        <option value="$PROJECT_DIR$/templates/base2.html" />
+        <option value="$PROJECT_DIR$/recruiter/templates/recruiter/Course.html" />
+        <option value="$PROJECT_DIR$/placementcell/settings.py" />
+        <option value="$PROJECT_DIR$/templates/Sign-up.html" />
+        <option value="$PROJECT_DIR$/templates/login-signup.html" />
       </list>
     </option>
   </component>
@@ -257,10 +414,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1537" />
-    <option name="height" value="833" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1920" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -283,6 +440,19 @@
             <path>
               <item name="placementcell" type="b2602c69:ProjectViewProjectNode" />
               <item name="placementcell" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="placementcell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="placementcell" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="imageSem1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="placementcell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="placementcell" type="462c0819:PsiDirectoryNode" />
               <item name="placementcell" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -300,19 +470,6 @@
               <item name="placementcell" type="b2602c69:ProjectViewProjectNode" />
               <item name="placementcell" type="462c0819:PsiDirectoryNode" />
               <item name="recruiter" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="placementcell" type="b2602c69:ProjectViewProjectNode" />
-              <item name="placementcell" type="462c0819:PsiDirectoryNode" />
-              <item name="recruiter" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="placementcell" type="b2602c69:ProjectViewProjectNode" />
-              <item name="placementcell" type="462c0819:PsiDirectoryNode" />
-              <item name="recruiter" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -321,6 +478,17 @@
               <item name="recruiter" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="recruiter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="placementcell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="placementcell" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="placementcell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="placementcell" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="placementcell" type="b2602c69:ProjectViewProjectNode" />
@@ -342,11 +510,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kaustubh\Desktop\placementcell" />
+      <recent name="C:\Users\Kaustubh\Desktop\placementcell\recruiter\static\image" />
       <recent name="C:\Users\Kaustubh\Desktop\placementcell\recruiter\static" />
-      <recent name="C:\Users\Kaustubh\Desktop\placementcell\templates" />
-      <recent name="C:\Users\Kaustubh\Desktop\placementcell\templates\registration" />
-      <recent name="C:\Users\Kaustubh\Desktop\placementcell\recruiter\templates" />
-      <recent name="C:\Users\Kaustubh\Desktop\placementcell\placementcell" />
+      <recent name="C:\Users\Kaustubh\Desktop\placementcell\media\image" />
+      <recent name="C:\Users\Kaustubh\Desktop\placementcell\media\image\imageSem1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -361,7 +529,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.Course.html">
+    <configuration name="Course.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/placementcell/recruiter/templates/recruiter/Course.html">
+      <method v="2" />
+    </configuration>
     <configuration name="placementcell" type="Python.DjangoServer" factoryName="Django server">
       <module name="placementcell" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -409,6 +580,15 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Django server.placementcell" />
+      <item itemvalue="JavaScript Debug.Course.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Course.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -424,9 +604,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="0" width="1229" height="666" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33105218" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21006711" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -437,7 +617,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32714286" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24645892" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -450,7 +630,7 @@
       <window_info anchor="right" id="SciView" order="5" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28590786" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21006711" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -461,7 +641,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32761088" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24645892" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -481,111 +661,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/templates/home.html" />
-    <entry file="file://$PROJECT_DIR$/templates/templates/login.html" />
-    <entry file="file://$PROJECT_DIR$/templates/templates/signup.html" />
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/placementcell/core/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/url.py" />
-    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/material.html" />
-    <entry file="file://$PROJECT_DIR$/placementcell/core/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/placementcell/core/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/placementcell/core/tokens.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/placementcell/core/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/placementcell/core/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/sem1_courses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="93" column="51" lean-forward="true" selection-start-line="93" selection-start-column="51" selection-end-line="93" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/sem2_courses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="116" column="11" lean-forward="true" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/sem3_courses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="98" column="99" selection-start-line="98" selection-start-column="99" selection-end-line="98" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/sem4_courses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="98" column="99" selection-start-line="98" selection-start-column="99" selection-end-line="98" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/sem5_courses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="98" column="99" selection-start-line="98" selection-start-column="99" selection-end-line="98" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/sem6_courses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="109" column="18" lean-forward="true" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/sem7_courses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="98" column="99" selection-start-line="98" selection-start-column="99" selection-end-line="98" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/sem8_courses.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -593,55 +668,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/semester.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="154" column="22" selection-start-line="154" selection-start-column="22" selection-end-line="154" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/placementcell/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-678">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/placementcell/forms.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/form_template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/account_activation_sent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/account_activation_invalid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/account_activation_email.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -653,129 +683,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/css/base.css" />
-    <entry file="file://$PROJECT_DIR$/recruiter/static/css/login.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/static/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/placementcell/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2363">
-          <caret line="139" column="21" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-            <marker date="1541397113619" expanded="true" signature="2818:3619" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/static/css/login.css" />
+    <entry file="file://$PROJECT_DIR$/recruiter/static/css/base.css" />
     <entry file="file://$PROJECT_DIR$/recruiter/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/recruiter/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        <state relative-caret-position="935">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/placementcell/core/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/placementcell/core/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/placementcell/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <element signature="e#410#451#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/Sem1_course1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Recruiter_registration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recruiter/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -787,10 +705,281 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/semester.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="106" selection-start-line="40" selection-start-column="91" selection-end-line="40" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/Course2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/Course3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="120" column="19" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/Course4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="120" column="19" lean-forward="true" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/Course5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" column="38" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/Course6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="120" column="19" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/Course7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="120" column="19" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/sem2_courses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="40" column="67" lean-forward="true" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/image/sem5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/image/891625036-612x612.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/signup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        <state relative-caret-position="272">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account_activation_invalid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account_activation_email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account_activation_sent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Recruiter_registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="true" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/image/bg5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/image/bg6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/placementcell/core/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/placementcell/core/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/sem1_courses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/placementcell/core/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/placementcell/core/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/placementcell/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#410#451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/placementcell/forms.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/placementcell/core/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/semester_new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="63" column="43" lean-forward="true" selection-start-line="63" selection-start-column="43" selection-end-line="63" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/image/cpp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/placementcell/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-467">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-434">
+          <caret line="249" selection-start-line="249" selection-end-line="249" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1542097222789" expanded="true" signature="2772:3513" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/Course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="77" column="40" lean-forward="true" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/placementcell/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2312">
+          <caret line="136" column="15" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Sign-up.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login-signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recruiter/templates/recruiter/Sem1_course1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>

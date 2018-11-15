@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -13,14 +14,14 @@
   <body>
     <nav class="uk-navbar-container uk-navbar uk-margin-remove" style="background-color:#050A21;">
       <a class="uk-navbar-item uk-logo" href="#">
-        <img src="image/891625036-612x612.jpg" alt="" style="height:50px; width:50px; border-radius:50%;">
+        <img src="../media/image/891625036-612x612.jpg" alt="" style="height:50px; width:50px; border-radius:50%;">
         <h3 style="margin-top:8%; color:#D2D4D9;">Acadamic Portal</h3>
       </a>
     <div class="uk-navbar-right" style="margin-right:3%;">
         <ul class="uk-navbar-nav">
-            <li><a href="#">Home</a></li>
+            <li><a href="">Home</a></li>
             <li>
-                <a href="#">About</a>
+                <a href="/about/">About</a>
                 <div class="uk-navbar-dropdown">
                     <ul class="uk-nav uk-navbar-dropdown-nav">
                         <li class="uk-active"><a href="#">Active</a></li>
@@ -29,19 +30,19 @@
                     </ul>
                 </div>
             </li>
-            <li><a href="#">Contact</a></li>
-            <li><a href="#">Help</a></li>
+            <li><a href="/contact/">Contact</a></li>
+            <li><a href="/heip/">Help</a></li>
         </ul>
     </div>
 </nav>
                                                                 <!-- Image Section -->
 
-  <div class="uk-height-large uk-flex uk-flex-center uk-flex-middle uk-background-cover uk-light" data-src="image/bg6.jpg" uk-img style="height:580px;">
+  <div class="uk-height-large uk-flex uk-flex-center uk-flex-middle uk-background-cover uk-light" data-src="../media/image/bg6.jpg" uk-img style="height:580px;">
     <div class="uk-inline uk-margin">
-         <!-- <h1 class="" style="">Acadamic Portal</h1> -->
+        <h1 class="" style=""></h1>
     </div>
     <div class="uk-inline uk-margin">
-      <a href="Sign-up.html">
+      <a href="/signup/">
           <button class="uk-button uk-button-default uk-margin-large-top uk-flex-middle">GET STARTED</button>
       </a>
 
